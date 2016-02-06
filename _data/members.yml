@@ -1,6 +1,19 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Achintya Rao
+  affiliation: CERN and UWE, Bristol
+  github: RaoOfPhysics
   interests:
-    - Programming
+    - Science Communication
+    - Outreach
     - Open Science
+- name: Igor Babuschkin
+  affiliation: Universty of Manchester
+  github: ibab
+  interests:
+    - FIXME
+- name: Patricia Herterich
+  affiliation: Humboldt-Universitaet zu Berlin and CERN
+  github: pherterich
+  interests:
+    - Open Research
+    - Data Management
+    - everything that is not code

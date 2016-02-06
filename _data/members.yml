@@ -10,6 +10,13 @@
   github: ibab
   interests:
     - FIXME
+- name: Tim Head
+  affiliation: EPFL
+  github: betatim
+  interests:
+    - open source
+    - machine learning
+    - python
 - name: Patricia Herterich
   affiliation: Humboldt-Universitaet zu Berlin and CERN
   github: pherterich

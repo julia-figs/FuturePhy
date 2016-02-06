@@ -4,7 +4,7 @@ events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: 'And you can, too!'
+activitiesSubheading: "We're a group of people at CERN interested in sharing our knowledge of coding and related tools"
 activities:
   - title: Skill Sharing
     description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'

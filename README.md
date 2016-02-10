@@ -1,6 +1,8 @@
 #Mozilla Study Groups
 
-Welcome to the CERN [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project! 
+[![Join the chat at https://gitter.im/CERNStudyGroup/cernstudygroup.github.io](https://badges.gitter.im/CERNStudyGroup/cernstudygroup.github.io.svg)](https://gitter.im/CERNStudyGroup/cernstudygroup.github.io)
+
+Welcome to the CERN [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project!
 
 ### Wait: What's a 'Mozilla Study Group'?
 
@@ -19,9 +21,9 @@ Welcome to our CERN Mozilla Study Group! A few things to do & know now that you'
 
 When you're ready to list a new event for your Study Group, follow these steps, or [watch this video](https://youtu.be/abglQgEIccw) where we walk you through event listing.
 
- 1. **Make a new Issue to describe your event.** 
-   - Click on 'Issues' over on the right sidebar of your repo, 
-   - click the green 'New Issue' button near the top right. 
+ 1. **Make a new Issue to describe your event.**
+   - Click on 'Issues' over on the right sidebar of your repo,
+   - click the green 'New Issue' button near the top right.
    - You'll then see a form where you can give your event a title and a description - fill these out with all the relevant information:
      - Where will your event be? Include a link to a map.
      - When will it be? Date and time.
@@ -35,7 +37,7 @@ When you're ready to list a new event for your Study Group, follow these steps, 
 
     where `YYYY-MM-DD` is the date of your event, and `word` is anything you want.
  4. **Cut and paste the following into your new file:**
- 
+
     ```
     ---
     title: Study Group Meetup

@@ -1,0 +1,9 @@
+---
+title: Intro to R
+text: Get your first taste of the R programming language
+location: 40/R-D10
+link: https://github.com/CERNStudyGroup/cernstudygroup.github.io/issues/45
+date: 2016-06-10
+startTime: '17:00'
+endTime: '18:30'
+---

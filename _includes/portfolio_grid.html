@@ -37,6 +37,14 @@
               {% endif %}
               </ul>
             </div>
+              {% if site.calendar_on %}
+            <div class="col-lg-6">
+              <h3 class="section-heading eventInstructions">{{site.data[site.language].calendar}}</h3>
+              <h3 class="section-subheading text-muted eventSubinstructions">{{site.data[site.language].calendarSubheading | replace: '%CALENDAR_EMBED_URL%', site.calendar_embed_url}}</h3>
+              <h3 class="section-subheading text-muted eventSubinstructions">{{site.data[site.language].googleCalendar | replace: '%CALENDAR_EMBED_URL%', site.calendar_embed_url}}</h3>
+              <h3 class="section-subheading text-muted eventSubinstructions">{{site.data[site.language].iCal | replace: '%CALENDAR_ICAL_URL%', site.calendar_ical_url}}</h3>
+            </div>
+            {% endif %}
             {% if site.calendar_on %}
             <div class="col-lg-6">
             {% else %}
@@ -45,13 +53,5 @@
               <h3 class="section-heading eventInstructions">{{site.data[site.language].twitter}}</h3>
            <a class="twitter-timeline" href="https://twitter.com/FuturePhy">Tweets by FuturePhy</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
-            {% if site.calendar_on %}
-            <div class="col-lg-6">
-              <h3 class="section-heading eventInstructions">{{site.data[site.language].calendar}}</h3>
-              <h3 class="section-subheading text-muted eventSubinstructions">{{site.data[site.language].calendarSubheading | replace: '%CALENDAR_EMBED_URL%', site.calendar_embed_url}}</h3>
-              <h3 class="section-subheading text-muted eventSubinstructions">{{site.data[site.language].googleCalendar | replace: '%CALENDAR_EMBED_URL%', site.calendar_embed_url}}</h3>
-              <h3 class="section-subheading text-muted eventSubinstructions">{{site.data[site.language].iCal | replace: '%CALENDAR_ICAL_URL%', site.calendar_ical_url}}</h3>
-            </div>
-            {% endif %}
         </div>
     </section>

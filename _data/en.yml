@@ -19,16 +19,8 @@ activities:
   - title: Research Themes
     description: 'To explore research themes and major science infrastructure for Biodiversity and the Tree of Life.'
     icon: fa-group
-    
-    
-events: Events
-eventsSubheading: Our upcoming and recent events
-eventPlaceholder: Nothing yet! Propose an event here.
-suggestEvent: Suggest an Event
-leadership: How to lead a Study Group session
 
 twitter: FuturePhy on Twitter
-twitterCode: <a class="twitter-timeline" href="https://twitter.com/FuturePhy">Tweets by FuturePhy</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 calendar: Subscribe to our events calendar!
 calendarSubheading: 'We also invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'

@@ -19,21 +19,6 @@ activities:
   - title: Research Themes
     description: 'To explore research themes and major science infrastructure for Biodiversity and the Tree of Life.'
     icon: fa-group
-    
-activitiesSubheading: "<p align="left">Completing the Tree of Life is a grand challenge in science, on the same intellectual scale as investigating the nature of matter or the origin of the universe: it is fundamental to understanding our world, central to human sustainability, and critical as a framework for enabling interdisciplinary discovery. Progress toward this challenge has begun to transform the life sciences by blending biology with computer science and successfully generating large genealogies of thousands -- even millions -- of species. These large trees are now informing many branches of biology, from genomics to ecology, and have great promise for applications in medicine, agriculture, industry, and climate-change mitigation.
-
-<p align="left">It is critical that scientists develop a future vision for this area of scientific exploration, and we work together to clarify and visualize the central role of phylogenetics in the strategic integration of biodiversity science across US academic, corporate and government institutions. To achieve this vision, this project has developed a three-year program of catalysis meetings and workshops to bring together the Tree of Life community.
-
-<p align="left">By uniting a wide range of biologists, computational experts, and representatives from corporate entities, foundations, and government agencies, the meeting series will address three primary goals: (1) identifying challenges and enabling progress in generating, storing and visualizing the genealogy of life, (2) identifying challenges and enabling progress in integrating large data layers with the tree of life, and (3) developing a clear plan and compelling vision for the future of phylogenetic biology.
-
-<p align="left">Participants will include students and early-career scientists, innovators, educators, and members of key corporate, government and non-profit organizations. Tangible products will include publications that highlight new tools and uses relevant to the tree of life, advances in software that will be open source and available to a wide audience, educational materials, and specific recommendations for the maintenance of phylogenetic resources, biodiversity data, and addressing national challenges in biodiversity science and education.
-
-<p align="left"><u>FuturePhy Conference Series details</u>
-<ul>
-<li>Three large conferences over three years: meeting dates TBA</li>
-<li>Three or more smaller workshops and/or hackathons aimed at solving specific problems or developing specific products associated with the initiative.</li>
-<li>Participants will be invited from major NSF funded projects in this area, at-large members of the evolutionary biology community, and members of governmental units and corporate entities.</li>
-</ul></p>"
 
 teamHeadline: Who We Are
 teamSubheading: "We're scientists, students and researchers who want to work with you!"

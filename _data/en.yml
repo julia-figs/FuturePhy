@@ -32,7 +32,6 @@ activities:
     description: 'To explore research themes and major science infrastructure for Biodiversity and the Tree of Life.'
     icon: fa-group
 
-
 events: Events
 eventsSubheading: Our upcoming and recent events
 eventPlaceholder: Nothing yet! Propose an event here.

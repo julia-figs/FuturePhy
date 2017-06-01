@@ -1,19 +1,22 @@
 ---
-whatWeDo: What We Do
+Mission: The FuturePhy Mission
 events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: "We're a group of people at CERN interested in sharing our knowledge of coding and related tools"
+activitiesSubheading: "We are a growing community of biologists, computer scientists and others interested in biodiversity and the vast network of relatedness among living things that is the Tree of Life. The central goals of this project are Resolving, Visualizing and Using the Tree of Life:"
 activities:
-  - title: Skill Sharing
-    description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
+  - title: Successes and Challenges
+    description: 'To assess the successes and remaining challenges at resolving the overall Tree of Life.</p>'
     icon: fa-comment
-  - title: Co-Working
-    description: 'Get together to work on your coding projects, help each other out and share your work.'
+  - title: Different Scales
+    description: 'To explore and promote new ways of viewing the Tree of Life at different scales.'
     icon: fa-laptop
-  - title: Community Building
-    description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
+  - title: Data Sets
+    description: 'To identify the major data sets that are most important and/or most ready for Tree of Life synthesis.'
+    icon: fa-laptop
+  - title: Research Themes
+    description: 'To explore research themes and major science infrastructure for Biodiversity and the Tree of Life.'
     icon: fa-group
 
 events: Events
@@ -38,5 +41,3 @@ contact: Talk To Us
 teamHeadline: Who We Are
 teamSubheading: "We're scientists, students and researchers who want to work with you!"
 interests: Interests
-
-codeOfConduct: Study Group Code of Conduct

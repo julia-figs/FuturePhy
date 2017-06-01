@@ -1,7 +1,7 @@
 ---
 Mission: The FuturePhy Mission
 events: Events
-contact: Contact
+communitySurvey: Community Survey
 tellMeMore: Tell Me More
 
 activitiesSubheading: "We are a growing community of biologists, computer scientists and others interested in biodiversity and the vast network of relatedness among living things that is the Tree of Life. The central goals of this project are Resolving, Visualizing and Using the Tree of Life."
@@ -34,9 +34,9 @@ calendarSubheading: 'We also invite you to follow <a href="%CALENDAR_EMBED_URL%"
 googleCalendar: 'If you use Google calendar, you can add our calendar by pressing the "Google Calendar" button at the bottom-right of <a href="%CALENDAR_EMBED_URL%" target="_blank">this page</a>.'
 iCal: 'If you use another calendar app, you can copy and paste <a href="%CALENDAR_ICAL_URL%">this address</a> into any calendar product that supports the iCal format.'
 
-sayHi: Come Say Hi
-contactSubheading: 'We use GitHub to get coding help, talk about events and share files. Join us there!'
-contact: Talk To Us
+vote: VoteNow
+contactSubheading: 'What are the really important questions this project should focus on? Please complete our survey to help us understand the community needs.'
+communitySurvey: Vote now
 
 teamHeadline: Who We Are
 teamSubheading: "We're scientists, students and researchers who want to work with you!"

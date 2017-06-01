@@ -3,8 +3,8 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: CERN Study Group
-description: "A study group at CERN for anyone interested in coding"
+title: FuturePhy
+description: "The future of comparative biology in a phylogenetic age: Enabling the power and potential of the genealogy of life"
 language: en
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
@@ -19,8 +19,8 @@ language: en
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To The CERN Study Group!"
-headlineMain: "Let's Work Together"
+headlineSmall: "Funded by the National Science Foundation"
+headlineMain: "Welcome to FuturePhy"
 
 # Setup Google Calendar
 # Usage:

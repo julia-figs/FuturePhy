@@ -1,62 +1,15 @@
-- name: Achintya Rao
-  affiliation: CERN and UWE, Bristol
-  github: RaoOfPhysics
-  interests:
-    - Science Communication
-    - Outreach
-    - Open Science
-- name: Igor Babuschkin
-  affiliation: Universty of Manchester
-  github: ibab
-  interests:
-    - Python
-    - Data Science
-    - Open Source Development
-- name: Tim Head
-  affiliation: EPFL
-  github: betatim
-  interests:
-    - open source
-    - machine learning
-    - python
-- name: Patricia Herterich
-  affiliation: Humboldt-Universitaet zu Berlin and CERN
-  github: pherterich
-  interests:
-    - Open Research
-    - Data Management
-    - everything that is not code
-- name: Tom McCauley
-  affiliation: University of Notre Dame
-  github: tpmccauley
-  interests:
-    - WebGL and Data Visualisation
-    - Open Data
-    - JavaScript, C++, Python
-- name: Sünje Dallmeier-Tiessen
-  affiliation: CERN
-  github: suenjedt
-  interests:
-    - Open Research
-    - Reproducible Research
-    - Orc(h)ids
-- name: Lukas Heinrich
-  affiliation: NYU
-  github: lukasheinrich
-  interests:
-    - C++, python, Javscript
-    - distributed computing
-    - Open Science
-- name: Michela Paganini
-  affiliation: Yale
-  github: mickypaganini
-  interests:
-    - Machine Learning
-    - Open Science
-    - Python
-- name: Robin Dasler
-  affiliation: CERN
-  github: daslerr
-  interests:
-    - Open Science
-    - Data Management
+- name: Mark Westneat
+  affiliation: University of Chicago
+  website: http://pondside.uchicago.edu/oba/faculty/westneat_m.html
+- name: Betsy Arnold
+  affiliation: University of Arizona
+  website: http://www.arnoldlab.net/
+- name: Rob Knight
+  affiliation: University of California San Diego
+  website: https://knightlab.ucsd.edu/
+- name: David Maddison
+  affiliation: Oregon State University
+  website: http://ib.oregonstate.edu/faculty/maddisod/David-Maddison
+- name: Lucinda McDade
+  affiliation: Rancho Santa Ana Botanic Garden
+  website: http://www.rsabg.org/hidden-research/40-articles/149-lucinda-mcdade

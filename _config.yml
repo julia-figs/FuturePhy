@@ -18,9 +18,9 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Funded by the National Science Foundation"
-headlineMain: "Welcome to FuturePhy"
+titleBackground: "https://drive.google.com/file/d/0B_wtIcwlMvZdWjN1RFpkYjA3X2s/view?usp=sharing"
+headlineSmall: "Welcome to FuturePhy"
+headlineMain: "A conference and workshop series on the future of phylogenetics"
 
 # Setup Google Calendar
 # Usage:

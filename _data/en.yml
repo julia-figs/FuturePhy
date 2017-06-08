@@ -3,7 +3,6 @@ Mission: The FuturePhy Mission
 communitySurvey: Community Survey
 Events: calendar
 tellMeMore: Tell Me More
-readMore: Read More
 
 
 activitiesSubheading: "We are a growing community of biologists, computer scientists and others interested in biodiversity and the vast network of relatedness among living things that is the Tree of Life. The central goals of this project are Resolving, Visualizing and Using the Tree of Life."
@@ -35,5 +34,6 @@ googleCalendar: 'If you use Google calendar, you can add our calendar by pressin
 iCal: 'If you use another calendar app, you can copy and paste <a href="%CALENDAR_ICAL_URL%">this address</a> into any calendar product that supports the iCal format.'
 
 posts: FuturePhy Posts
+postsSubheading: '<a href="/_includes/posts.html">Read more</a> about FuturePhy and relevant updates'
 
 twitter: FuturePhy on Twitter

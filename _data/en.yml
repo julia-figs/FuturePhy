@@ -33,6 +33,6 @@ calendar: Events & Posts
 calendarSubheading: 'We invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'
 googleCalendar: 'If you use Google calendar, you can add our calendar by pressing the "Google Calendar" button at the bottom-right of <a href="%CALENDAR_EMBED_URL%" target="_blank">this page</a>.'
 iCal: 'If you use another calendar app, you can copy and paste <a href="%CALENDAR_ICAL_URL%">this address</a> into any calendar product that supports the iCal format.'
-readMore: Posts, information & updates
+readMore: Posts, information, & updates
 
 twitter: FuturePhy on Twitter

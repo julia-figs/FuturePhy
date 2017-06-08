@@ -29,8 +29,7 @@ communitySurveySubheading: 'What are the really important questions this project
 communitySurvey: Take the survey
 
 calendar: Events & Posts
-calendarHeading: '<h4>Calendars</h4>'
-calendarSubheading: 'We invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'
+calendarSubheading: '<h4>Calendars</h4> We invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'
 googleCalendar: 'If you use Google calendar, you can add our calendar by pressing the "Google Calendar" button at the bottom-right of <a href="%CALENDAR_EMBED_URL%" target="_blank">this page</a>.'
 iCal: 'If you use another calendar app, you can copy and paste <a href="%CALENDAR_ICAL_URL%">this address</a> into any calendar product that supports the iCal format.'
 posts: '<a href=".posts"><u><h4>View FuturePhy information and updates</h4></u></a>'

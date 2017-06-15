@@ -33,6 +33,11 @@ calendar_on: True
 calendar_embed_url: "https://calendar.google.com/calendar/embed?src=e9deb60l9ctdidcs3lofv1sev8%40group.calendar.google.com"
 calendar_ical_url: "https://calendar.google.com/calendar/ical/e9deb60l9ctdidcs3lofv1sev8%40group.calendar.google.com/public/basic.ics"
 
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: https-julia-figs-github-io-futurephy
 
 #========================================
 # No touching anything below this line :)
